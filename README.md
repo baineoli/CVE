@@ -1,2 +1,2 @@
 # CVE
-这是一个记录和分享CVE漏洞挖掘的库
+This is a library for recording and sharing CVE vulnerability mining
